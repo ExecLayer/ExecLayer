@@ -51,11 +51,12 @@ To request access, please reach out via the contact details below.
 
 ## Research & Whitepaper
 
-A public overview whitepaper is available at [execlayer.xyz](https://execlayer.xyz).
+A public overview whitepaper is available in this repository -> [public whitepaper](https://github.com/ExecLayer/ExecLayer/blob/main/ExecLayer-Public-Whitepaper.pdf).
+Website can be found at -> [website][execlayer.xyz](https://execlayer.xyz).
 
 A comprehensive technical whitepaper detailing the protocol specification, security analysis, and implementation design is available upon request.
 
-This project is conducted within the **EPFL Distributed Computing Laboratory (DCL)**, advised by Prof. Rachid Guerraoui and Dr. Zicong Hong.
+This project is conducted within the **EPFL Distributed Computing Laboratory (DCL)**
 
 ---
 
