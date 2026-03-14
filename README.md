@@ -36,7 +36,7 @@ For a computation with 1 million steps, dispute resolution requires ~20 on-chain
 
 ---
 
-## Repository Access
+## Main Repository Access
 
 This repository is currently **private** as the project is in active research and development.
 
