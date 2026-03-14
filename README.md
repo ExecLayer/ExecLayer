@@ -52,7 +52,8 @@ To request access, please reach out via the contact details below.
 ## Research & Whitepaper
 
 A public overview whitepaper is available in this repository -> [public whitepaper](https://github.com/ExecLayer/ExecLayer/blob/main/ExecLayer-Public-Whitepaper.pdf).
-Website can be found at -> [website][execlayer.xyz](https://execlayer.xyz).
+
+Website can be found at -> [execlayer.xyz](https://execlayer.xyz).
 
 A comprehensive technical whitepaper detailing the protocol specification, security analysis, and implementation design is available upon request.
 
